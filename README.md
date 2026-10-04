@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Jaykesh Yadav
+Author - Jaykesh Yadav (Main)
